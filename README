@@ -14,7 +14,13 @@ Brief Description
     registers, commands and other things you might already like in Vim.
 
     Just like Vim, Vifm tries to adhere to the Unix philosophy.  So instead of
-    working solutions which are set in stone user is provided with a set of
+    working solutions wh
+
+
+
+
+
+ich are set in stone user is provided with a set of
     means for customization of Vifm to one's likings.  Though builtin
     functionality should be enough for most of use cases.
 
